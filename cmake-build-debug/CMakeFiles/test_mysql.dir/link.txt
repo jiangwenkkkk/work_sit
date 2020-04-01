@@ -1,0 +1,1 @@
+/usr/bin/g++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -mmacosx-version-min=10.14 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/openssl@1.1/lib CMakeFiles/test_mysql.dir/test_mysql.cpp.o  -o test_mysql  -L/usr/local/mysql/lib -Wl,-rpath,/usr/local/mysql/lib -lmysqlclient 

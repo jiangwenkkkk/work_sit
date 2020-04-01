@@ -1,0 +1,26 @@
+10.142.234.107
+spawn ssh roam@10.142.234.107^M
+roam@10.142.234.107's password: ^M
+Last login: Tue Nov 13 23:00:23 2018^M^M
+Authorized users only!!!!!!^M
+All activity will be monitored and reported.^M
+^[[?1034h[roam@A5-302-NF8480M4-2017-035 ~]$ ll /app/roam/dbinfo/^M
+total 7776^M
+-rw-rw-rw- 1 roam roam 7961760 Nov 13 01:00 20181113.imsibak^M
+[roam@A5-302-NF8480M4-2017-035 ~]$ 10.142.234.108
+spawn ssh roam@10.142.234.108^M
+roam@10.142.234.108's password: ^M
+Last login: Tue Nov 13 23:00:23 2018^M^M
+Authorized users only!!!!!!^M
+All activity will be monitored and reported.^M
+^[[?1034h[roam@A5-302-NF8480M4-2017-036 ~]$ ll /app/roam/dbinfo/^M
+total 7776^M
+-rw-rw-rw- 1 roam roam 7961760 Nov 13 01:00 20181113.imsibak^M
+[roam@A5-302-NF8480M4-2017-036 ~]$ 10.142.234.109
+spawn ssh roam@10.142.234.109^M
+roam@10.142.234.109's password: ^M
+Last login: Tue Nov 13 23:00:24 2018^M^M
+Authorized users only!!!!!!^M
+All activity will be monitored and reported.^M
+^[[?1034h[roam@A5-302-NF8480M4-2017-037 ~]$ ll /app/roam/dbinfo/^M
+total 7776^M

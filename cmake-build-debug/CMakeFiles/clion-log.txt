@@ -1,0 +1,22 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++ -G "CodeBlocks - Unix Makefiles" /Users/james/jameswork/james_clion/find_use
+CMake Warning at /usr/local/lib/cmake/boost_system-1.71.0/libboost_system-variant-shared.cmake:59 (message):
+  Target Boost::system already has an imported location
+  '/usr/local/lib/libboost_system-mt.dylib', which will be overwritten with
+  '/usr/local/lib/libboost_system.dylib'
+Call Stack (most recent call first):
+  /usr/local/lib/cmake/boost_system-1.71.0/boost_system-config.cmake:43 (include)
+  /usr/local/lib/cmake/Boost-1.71.0/BoostConfig.cmake:117 (find_package)
+  /usr/local/lib/cmake/Boost-1.71.0/BoostConfig.cmake:182 (boost_find_component)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.14/Modules/FindBoost.cmake:266 (find_package)
+  CMakeLists.txt:50 (find_package)
+
+
+-- Boost  found.
+-- Found Boost components:
+   thread;system
+-- Boost  found.
+-- Found Boost components:
+   thread;system
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/james/jameswork/james_clion/find_use/cmake-build-debug

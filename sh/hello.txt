@@ -1,0 +1,19 @@
+spawn ssh james@95.169.15.105 -p 29367
+james@95.169.15.105's password: 
+Linux debian 4.9.0-3-amd64 #1 SMP Debian 4.9.30-2+deb9u2 (2017-06-26) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                                                                                                                                                 ]2;james@debian: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hlll /home/james | sed '2p' ;[?1l>[?2004l
+]2;ls --color=tty -lh /home/james | sed '2p']1;lltotal 16K
+drwxr-xr-x 2 james james 4.0K Oct 30 23:07 aux
+drwxr-xr-x 2 james james 4.0K Oct 30 23:07 aux
+drwxr-xr-x 3 james james 4.0K Oct  8 10:52 jameswork
+drwxr-xr-x 2 james james 4.0K Nov  2 20:26 ser_info
+drwxr-xr-x 2 james james 4.0K Oct 30 23:07 ser_infops
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                                                                                                                                                 ]2;james@debian: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004h  exit[?1l>[?2004l
+]2;exit]1;exitConnection to 95.169.15.105 closed.

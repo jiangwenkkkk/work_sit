@@ -1,0 +1,29 @@
+ 95.169.15.105
+spawn ssh james@95.169.15.105 -p 29367
+james@95.169.15.105's password: 
+Linux debian 4.9.0-3-amd64 #1 SMP Debian 4.9.30-2+deb9u2 (2017-06-26) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+%                                                                              
+ 
+
+[01;32m➜  [36m~[00m [?2004hdf [?2004l
+
+Filesystem     1K-blocks    Used Available Use% Mounted on
+udev              249300       0    249300   0% /dev
+tmpfs              52080    6524     45556  13% /run
+/dev/sda2       10999200 2338588   8098604  23% /
+tmpfs             260392       0    260392   0% /dev/shm
+tmpfs               5120       0      5120   0% /run/lock
+tmpfs             260392       0    260392   0% /sys/fs/cgroup
+/dev/sda1         274407   35903    223912  14% /boot
+tmpfs              52076       0     52076   0% /run/user/1000
+%                                                                              
+ 
+
+[01;32m➜  [36m~[00m [?2004h

@@ -1,0 +1,6 @@
+allfilenum:  2
+allfilenum:  2
+allfilenum:  2
+allbill: 20000\n
+allfilenum:  2
+allbill: 20000

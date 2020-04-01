@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/james/jameswork/james_clion/find_use/test/main11.cpp
+unistd.h
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+time.h
+-
+string
+-
+ifaddrs.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+iostream
+-
+

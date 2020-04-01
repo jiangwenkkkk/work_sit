@@ -1,0 +1,2 @@
+export HLA_PATH=/jsdata/vnode/
+export CLOUD_PATH=/jsdata/vnode/cloud
